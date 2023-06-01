@@ -4,7 +4,7 @@
 # ]
 
 # Poderia ser importado como .modulo_b pois mesmo q mude o nome da pasta raiz na terá problemas
-from aula99_package.modulo_b import fala_oi
+# from aula99_package.modulo_b import fala_oi
 var = 'Victor'
 
 
